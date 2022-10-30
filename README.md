@@ -28,7 +28,7 @@
 
 
 ## 📊 Top Repositories
- [![datamining](https://github-readme-stats.vercel.app/api/pin/?username=ThreeYas&repo=Forest_fire_classifier&show_icons=true&theme=radical)](https://github.com/ThreeYas/datamining) &nbsp;&nbsp; 
+ [![datamining](https://github-readme-stats.vercel.app/api/pin/?username=ThreeYas&repo=datamining&show_icons=true&theme=radical)](https://github.com/ThreeYas/datamining) &nbsp;&nbsp; 
 
 ### :fire: My Stats :
 
