@@ -34,5 +34,3 @@
 
  <img align="center" height="200px" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThreeYas&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Triyas Septiyanto's GitHub Stats"> <img align="center" width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThreeYas&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="Triyas Septiyanto's Most Used Language">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThreeYas&hide_border=true&theme=transparent">
-
-![Triyas Septiyanto's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ThreeYas&hide_border=true&theme=transparent)
