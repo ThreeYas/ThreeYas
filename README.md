@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **triyasseptiyanto180992@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/triyas031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="triyas031" height="30" width="40" /></a>
@@ -34,3 +32,5 @@
 
  <img align="center" height="200px" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThreeYas&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Triyas Septiyanto's GitHub Stats"> <img align="center" width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThreeYas&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="Triyas Septiyanto's Most Used Language">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThreeYas&hide_border=true&theme=transparent">
+
+
